@@ -3,4 +3,7 @@
 ---
 it requires npm k-lunch module to parse school meal menu.
 
-```making discord bot first```
+```discord bot complete```
+
+TODO:
+kakaotalk bot

@@ -2,7 +2,7 @@ const klunch = require('k-lunch');
 const async = require('async');
 const discord = require('discord.js');
 const client = new discord.Client();
-const TOKEN = "";
+const TOKEN = "NjQyNDAzNjM4ODA3MTAxNDQ4.XeqORg.0gCi_4kic1icm9GC2sDOyNYKZRw";
 
 client.on("ready", () => {
     console.log("working discord meal!");
